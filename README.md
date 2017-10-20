@@ -8,7 +8,7 @@ This is a web-based application for reading RSS feeds, that has [Jasmine](http:/
 To see or modify the project's test units:
 1. Download or clone the repository from [here](https://github.com/sami-almalki/frontend-nanodegree-feedreader).
 2. To test the project, open `index.html`.
-3. To modify the test units, go to `./jasmine/frontend-nanodegree-feedreader/jasmine/spec/` and open `feedreader.js`
+3. To modify the test units, go to `./jasmine/spec/` and open `feedreader.js`.
 
 ## Unit Tests Included
 
